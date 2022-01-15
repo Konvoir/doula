@@ -1,0 +1,20 @@
+.contacts{
+    color: brown;
+    font-size: 20px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.link{
+    color: rgb(162, 30, 0);
+    font-size: 30px;
+    padding: 15px;
+}
+
+.conteiner{
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-between; */
+}

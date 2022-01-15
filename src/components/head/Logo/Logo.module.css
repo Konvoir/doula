@@ -1,0 +1,26 @@
+.link{
+    color: rgb(162, 30, 0);
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    /* display: inline-block; */
+    justify-content: center;
+    /* padding: 15px; */
+}
+
+.kolo{
+    font-size: 50px;
+    color: rgb(162, 30, 0);
+}
+
+.love{
+    /* display: inline-flex; */
+    font-size: 20px;
+    color: rgb(162, 30, 0);
+    align-items: center;
+    text-align: center;
+}
+.conteiner{
+    display: flex;
+    flex-direction: column;
+}
