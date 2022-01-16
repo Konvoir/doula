@@ -1,5 +1,6 @@
 .conteiner{
     display: flex;
+    outline: brown 1px solid;
 }
 
 .form {

@@ -1,7 +1,8 @@
 .conteiner{
-    max-width: 2300px;
+    /* max-width: 2300px; */
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     align-items:center;
-    /* justify-content: space-between; */
+    justify-content: space-between;
+    outline: brown 1px solid;
 }

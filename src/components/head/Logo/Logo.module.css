@@ -1,6 +1,6 @@
 .link{
     color: rgb(162, 30, 0);
-    font-size: 30px;
+    font-size: 50px;
     align-items: center;
     text-align: center;
     /* display: inline-block; */
@@ -9,13 +9,13 @@
 }
 
 .kolo{
-    font-size: 50px;
+    font-size: 70px;
     color: rgb(162, 30, 0);
 }
 
 .love{
     /* display: inline-flex; */
-    font-size: 20px;
+    font-size: 30px;
     color: rgb(162, 30, 0);
     align-items: center;
     text-align: center;
@@ -23,4 +23,5 @@
 .conteiner{
     display: flex;
     flex-direction: column;
+    outline: rgb(10, 6, 6) 1px solid;
 }

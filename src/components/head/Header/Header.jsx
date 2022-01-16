@@ -21,10 +21,7 @@ export const Header = () => {
     </Section>
     
             
-    {/* <Pages /> */}        
+    {/* <Pages />         */}
 </>
     );
 };
-         
-        
-          
